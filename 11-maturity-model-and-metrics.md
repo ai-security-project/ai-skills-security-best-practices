@@ -24,6 +24,7 @@ Recommended metrics, always reported with numerator, denominator, source, time r
 - injection, exfiltration, isolation, and composition regression pass rates;
 - exception count, age, expiry breaches, and compensating-control health;
 - incident recurrence by cause and corrective-action closure time;
+- count and age of skills dormant beyond their tier threshold, and the proportion with a dated retention or retirement decision;
 - inventory drift and unsupported-platform security gaps.
 
 Do not combine these into a single “safety score” without preserving the underlying measures and uncertainty.
